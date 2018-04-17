@@ -16,6 +16,7 @@ pandas = "*"
 sympy = "*"
 nose = "*"
 jupyterlab = "*"
+seaborn = "*"
 
 
 [dev-packages]

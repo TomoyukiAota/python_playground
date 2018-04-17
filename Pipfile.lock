@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c5a442634e7a5b859789554dcb2270b430182a31b00a2dd7e9f8d283dc58f425"
+            "sha256": "513deaeaf7679b1db096999d7c6433b5034c07894781a73ee2d321df517ae510"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -33,10 +33,10 @@
         },
         "jupyterlab": {
             "hashes": [
-                "sha256:3feb8da187bfdc3eab4b5e0bd9f3a92951a2828f42bf46237dc3a0ac57bae6c2",
-                "sha256:a14f0051026f262b795edf0764e85fc076ba25cee80b6295e457ad7272816530"
+                "sha256:489c6ba7df0bb8946bc47c19587e6ed35df82e3df7da0f6e8b17061c30a816e1",
+                "sha256:b5d75fcba1a36cd6812b969ae32230af7076bca70650ec37f2aba62f95fccc21"
             ],
-            "version": "==0.31.12"
+            "version": "==0.32.0"
         },
         "matplotlib": {
             "hashes": [
@@ -144,6 +144,12 @@
                 "sha256:f7c0624de958e2e2e6353813c78aa4f5f3f1ed0a3567fb496b6dad99f55e695e"
             ],
             "version": "==1.0.1"
+        },
+        "seaborn": {
+            "hashes": [
+                "sha256:6702978b903d0284446e935916b980dfebae4063c18ad8eb6e8f9e76d0257eae"
+            ],
+            "version": "==0.8.1"
         },
         "sympy": {
             "hashes": [
