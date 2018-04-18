@@ -17,10 +17,12 @@ sympy = "*"
 nose = "*"
 jupyterlab = "*"
 seaborn = "*"
+scikit-learn = "*"
 
 
 [dev-packages]
 
+pylint = "*"
 
 
 [requires]
