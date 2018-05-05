@@ -1,0 +1,3 @@
+[submodule "submodules\\codebasics\\py"]
+	path = submodules\\codebasics\\py
+	url = https://github.com/codebasics/py.git
